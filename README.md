@@ -1,2 +1,2 @@
-# flight-ticket-booking
-mini-project-dbms
+# FLIGHT-TICKET-BOOKING
+DBMS-MINI-PROJECT
